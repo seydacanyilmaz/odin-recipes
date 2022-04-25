@@ -1,0 +1,23 @@
+/*
+* {
+    text-align: center;
+}
+*/
+body {
+    text-align: center;
+}
+
+h1, h2 {
+    
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
+ul, ol {
+    margin: 0;
+    padding: 0;
+    list-style-position: inside;
+}
